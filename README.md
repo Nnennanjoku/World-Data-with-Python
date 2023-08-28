@@ -4,10 +4,10 @@ In this dataset, a diverse range of information pertaining to 195 countries was 
 
 Let this dataset be a compass that guides you through the complexities of our diverse world, allowing you to explore, learn, and contribute to the global conversation.
 
-3. OBJECTIVES
-The dataset containing information about 195 countries offers a world of possibilities for exploration and discovery. As someone who thrives on data-driven insights, I see the potential to uncover a multitude of valuable perspectives by delving into this dataset. By immersing myself in its depths, I can envision achieving the following objectives:
+OBJECTIVES
+* The dataset containing information about 195 countries offers a world of possibilities for exploration and discovery. As someone who thrives on data-driven insights, I see the potential to uncover a multitude of valuable perspectives by delving into this dataset. By immersing myself in its depths, I can envision achieving the following objectives:
 
-Understanding Our Economies: By examining attributes like GDP, taxes, and wages, I aim to decode the economic tapestry of different countries. My goal is to uncover hidden patterns, understand how wealth is shared, and pinpoint factors that drive economic growth.
+* Understanding Our Economies: By examining attributes like GDP, taxes, and wages, I aim to decode the economic tapestry of different countries. My goal is to uncover hidden patterns, understand how wealth is shared, and pinpoint factors that drive economic growth.
 
 People at the Heart: I am eager to dive into birth rates, life expectancies, and more, to truly grasp the diverse dynamics of human populations. By connecting these dots, I strive to unravel the intricate relationship between healthcare spending, education, and people's well-being.
 
